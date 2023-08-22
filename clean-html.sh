@@ -5,4 +5,4 @@ cd ~/Downloads
 mkdir -p pdf
 
 # Mover archivos pdf
-mv *.pdf ~/Escritorio/Universidad/Programación1/taller_bash/clean-files/archivos_temp/pdf
+mv *.pdf ~/Downloads/pdf
