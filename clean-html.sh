@@ -2,7 +2,7 @@
 cd ~/Downloads
 
 # Armar un directorio donde vamos a guardar las cosas
-mkdir -p pdf
+mkdir -p html
 
-# Mover archivos pdf
-mv *.pdf ~/Downloads/pdf
+# Mover archivos html
+mv *.html ~/Downloads/html
