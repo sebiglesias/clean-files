@@ -6,4 +6,4 @@ cd ~/Downloads
 mkdir -p txt
 
 # Mover archivos txt 
-mv *.txt ~/Downloads/txt
+mv *.txt ~/Downloads/txt/asdfg6
